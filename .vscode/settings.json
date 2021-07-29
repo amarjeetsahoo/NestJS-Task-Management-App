@@ -1,6 +1,8 @@
 {
     "cSpell.words": [
         "nestjs",
-        "prebuild"
+        "postgres",
+        "prebuild",
+        "typeorm"
     ]
 }

@@ -5,6 +5,9 @@ import { GetTaskFilterDto } from './dto/get-task-filter.dto';
 
 @Injectable()
 export class TasksService {
+  constructor(params) {
+    
+  }
   // getAllTasks(): Task[] {
   //   return this.tasks;
   // }

@@ -3,6 +3,7 @@
         "nestjs",
         "postgres",
         "prebuild",
+        "signup",
         "typeorm"
     ]
 }

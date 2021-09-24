@@ -1,8 +1,8 @@
 {
   "name": "next-task-management",
   "version": "1.0.0",
-  "description": "alternate frontend for Udemy \"NestJS Zero to Hero\" by Ariel Weinberger",
-  "author": "Collin Monahan <llaenowyd@gmail.com>",
+  "description": "Front-end of NestJS APP",
+  "author": "Amarjeet Sahoo <amarjeethappysahoo@gmail.com>",
   "license": "ISC",
   "scripts": {
     "dev": "next -p 3001",
